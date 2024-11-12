@@ -1,0 +1,39 @@
+﻿/*
+  white: #FFFFFF
+  accent 1: #fb472e
+  accent 2: #2b0056
+*/
+h1, h2, h3 {
+    color: #fb472e;
+}
+
+h1 {
+    text-align: center;
+}
+
+th, td {
+    border: #2b0056 solid 3px;
+    padding: 6px 12px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+a {
+    color: #fb472e;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+    a:hover {
+        color: #ad1500;
+        font-weight: bold;
+        text-decoration: none;
+    }
+
+body {
+    padding: 36px;
+    font-size 16px;
+    background: #ffadf3;
+}
